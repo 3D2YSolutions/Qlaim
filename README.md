@@ -139,4 +139,4 @@ No production credentials should be committed to this repository.
 
 ## Author
 
-Built by [Kolby Kinsey](https://github.com/GFKolby) as part of the Qlaim product development process.
+Built by [GFK](https://github.com/MadeByGFK) as part of the Qlaim product development process.
